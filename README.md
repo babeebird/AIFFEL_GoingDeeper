@@ -6,3 +6,4 @@
 
 |#|Fundamental/Exercise/Project||||
 |--|--|--|--|--|
+|1|[Text Data](https://github.com/babeebird/AIFFEL_GoingDeeper/blob/master/01_TextData/01_TextData.ipynb)||||
