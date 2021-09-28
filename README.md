@@ -6,5 +6,5 @@
 
 |#|Fundamental/Exercise/Project|||
 |--|--|--|--|--|
-|1|[Text Data](https://github.com/babeebird/AIFFEL_GoingDeeper/blob/master/01_TextData/01_TextData.ipynb)\n[SentencePiece]||||
+|1|[Text Data](https://github.com/babeebird/AIFFEL_GoingDeeper/blob/master/01_TextData/01_TextData.ipynb)||||
 |2|||||
