@@ -7,4 +7,4 @@
 |#|Fundamental|Exercise|Project|Topic|Etc|
 |--|--|--|--|--|--|
 |1|[Text Data](https://github.com/babeebird/AIFFEL_GoingDeeper/blob/master/01_TextData/01_TextData.ipynb)|[SentencePiece](https://github.com/babeebird/AIFFEL_GoingDeeper/blob/master/01_TextData/E01_Sentencepiece.ipynb)||Tokenizer||
-|2|[Vectorization](https://github.com/babeebird/AIFFEL_GoingDeeper/blob/master/02_Vectorization/02_Vectorization.ipynb)|[ML TextClassifier](https://github.com/babeebird/AIFFEL_GoingDeeper/blob/master/02_Vectorization/E02_TextClassification.ipynb)||||
+|2|[Vectorization](https://github.com/babeebird/AIFFEL_GoingDeeper/blob/master/02_Vectorization/02_Vectorization.ipynb)|[MLTextClassifier](https://github.com/babeebird/AIFFEL_GoingDeeper/blob/master/02_Vectorization/E02_TextClassification.ipynb)||||
